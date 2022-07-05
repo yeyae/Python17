@@ -1,4 +1,4 @@
-#딕셔너리
+#딕셔너리란?
 #{Key1:Value1, Key2:Value2, Key3:Value3,...}
 from re import A
 
